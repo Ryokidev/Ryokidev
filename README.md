@@ -6,12 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=ryokidev&label=Profile%20views&color=7aa2f7&style=flat-square" alt="ryokidev" />
 </p>
 
-<h3 align="center">🚀 A Passionate Developer from the Philippines 🇵🇭</h3>
+<h3 align="center">A Passionate Newbie Developer</h3>
 
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **Fullstack Applications**
 - 🌱 I’m currently learning **Advanced Backend Systems**
 - 💬 Ask me about **JavaScript, Python, or Web Design**
 - ⚡ Fun fact: **I love turning caffeine into code!**
